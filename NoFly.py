@@ -80,7 +80,7 @@ class NoFlyClient:
         :return: boolean if it successfull or not
         """
         query = "INSERT INTO NFZONE(ID, SHAPE, LAT, LNG, RADIUS, BEGIN_AT, END_AT, NAME, CITY, LEVEL) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
-        con = sqlite3.connect("C:\\Users\\Federico\\PycharmProjects\\drone_server\\dronedb.db")
+        con = sqlite3.connect(r"./dronedb.db")
         cur = con.cursor()
         # preparing list of tuples to execute the script
         nfz_list = []
@@ -100,7 +100,7 @@ class NoFlyClient:
         """
         self._nfc_dict = dict()
         query = "SELECT * FROM NFZONE"
-        con = sqlite3.connect("C:\\Users\\Federico\\PycharmProjects\\drone_server\\dronedb.db")
+        con = sqlite3.connect(r"./dronedb.db")
         cur = con.cursor()
         cur.execute(query)
 

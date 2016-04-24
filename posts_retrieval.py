@@ -4,7 +4,7 @@ import sqlite3
 
 def posts_retrieving():
     print("ciao")
-    conn = sqlite3.connect("C:\\Users\\Federico\\PycharmProjects\\drone_server\\socialdb.db")
+    conn = sqlite3.connect(r"./socialdb.db")
     c = conn.cursor()
     c.execute('''SELECT * FROM POST ''')
     conn.commit()

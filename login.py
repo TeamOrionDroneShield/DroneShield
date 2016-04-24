@@ -4,7 +4,7 @@ import json
 
 
 def login_control(username, password):
-    conn = sqlite3.connect("C:\\Users\\Federico\\PycharmProjects\\drone_server\\socialdb.db")
+    conn = sqlite3.connect(r"./socialdb.db")
     c = conn.cursor()
     m = hashlib.sha512(username.encode())
     c.execute('''SELECT ID FROM Password p WHERE SHA512 = :pwd AND SHA512_USR = :sha_usr''',

@@ -5,6 +5,7 @@ from WeatherForecast import forecast_retrieval
 from login import login_control
 from NoFly import NoFlyClient
 from posts_retrieval import posts_retrieving
+from Submission import Submit
 
 app = Flask(__name__)
 
@@ -47,6 +48,35 @@ def returnNFZ():
         nfz_final_list.append(nfz_d)
 
     return str(json.dumps(nfz_data))
+
+@app.route('/submit', methods=['POST', 'GET'])
+def submission():
+    uid = request.args.get('uid')
+    type = request.args.get('type')
+    lat  = request.args.get('lat')
+    lng  = request.args.get('lng')
+    rad  = request.args.get('rad')
+    des  = request.args.get('des')
+    lvl  = request.args.get('lvl')
+    sub = Submit(uid, type)
+    if not sub.authorized():
+        return "NOT AUTHORIZED"
+
+    sub.setPosition(lat, lng, rad)
+    sub.setDescription(lvl, des)
+    sub.settingDB()
+
+    return "AUTHORIZED"
+
+@app.route('/getobstacles', methods=['POST', 'GET'])
+def getSubmission():
+    lat = request.args.get('lat')
+    lng = request.args.get('lng')
+    SUB = Submit()
+
+    sub_data = dict()
+    sub_data['data'] = SUB.searchingDB(lat, lng)
+    return str(json.dumps(sub_data))
 
 
 if __name__ == '__main__':
