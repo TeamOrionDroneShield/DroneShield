@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_f0c8333bcec2983ce34fee2180788a17a0cb8a90.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.1.0_114eae03110fd68fea871badac09361aacb261e4.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_7f6058ef3cc7b594ffa064604340b597965dd93b.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14f6b7d7b102c5bed9e741057bea143adfe0df35">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_a43dfe45e947e289151c9a5780587a3f41989858.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_c1ffcae7dadd1715fc526ac3634b68fecffe0304.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_cd38065f7d0f3cf1b3ea21c653bde7809a5a5565.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_5a413c8762b2e0ef3912f61154a0ffc26923b339.jar" />
+    </item>
+    <item
+        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_470b7e549dc7d6776d8e1716c33b6472dc5925ba.jar" />
+    </item>
+
+</items>

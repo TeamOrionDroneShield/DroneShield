@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi-v4\\screen.png",
+        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/drawable-port-mdpi-v4/screen.png",
+        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/drawable-port-mdpi-v4/screen.png",
+        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/res/drawable-port-mdpi/screen.png"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.dronev_1.it"
+        },
+        "plugin.google.maps": {
+            "API_KEY_FOR_ANDROID": "AIzaSyBqCDqzJ9UX8LEPgYiZRnWmxq6C2kprVg4",
+            "PACKAGE_NAME": "com.dronev_1.it"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.dronev_1.it"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.dronev_1.it"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.dronev_1.it"
+        }
+    }
+}
