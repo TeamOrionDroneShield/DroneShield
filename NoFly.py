@@ -95,7 +95,7 @@ class NoFlyClient:
         return True
 
 
-    def searchingDB(self, lat, lng):
+    def searchingDB(self, lat, lng, dist=20):
         """
         retrieving the no fly zones from the db
         :return: the dictionary of all the no fly zones
@@ -112,7 +112,7 @@ class NoFlyClient:
             nfz_lng = float(nfz[3])
             lat     = float(lat)
             lng     = float(lng)
-             if vincenty((nfz_lat, nfz_lng), (lat, lng)).miles <= 20:
+             if vincenty((nfz_lat, nfz_lng), (lat, lng)).miles <= dist:
                 new_nfz = NoFlyZone()
                 new_nfz._latitude  = nfz_lat
                 new_nfz._longitude = nfz_lng
@@ -140,4 +140,4 @@ class NoFlyClient:
 
 if __name__ == "__main__":
     NFC = NoFlyClient("https://flysafe-api.dji.com/api/release_limitarea.json")
-    NFC.searchingDB(41.8925682,12.4896667)
+    NFC.searchingDB(41.8925682,12.4896667, 20)
