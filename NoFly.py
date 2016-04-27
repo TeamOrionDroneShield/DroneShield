@@ -3,6 +3,8 @@ import datetime
 import requests
 import json
 
+from geopy.distance import vincenty
+
 class NoFlyZoneDB:
     def __init__(self):
         '''
@@ -110,7 +112,7 @@ class NoFlyClient:
             nfz_lng = float(nfz[3])
             lat     = float(lat)
             lng     = float(lng)
-            if (abs(nfz_lat - lat) <= 0.5) and (abs(nfz_lng - lng) <= 0.5):
+             if vincenty((nfz_lat, nfz_lng), (lat, lng)).miles <= 20:
                 new_nfz = NoFlyZone()
                 new_nfz._latitude  = nfz_lat
                 new_nfz._longitude = nfz_lng
