@@ -112,7 +112,7 @@ class NoFlyClient:
             nfz_lng = float(nfz[3])
             lat     = float(lat)
             lng     = float(lng)
-             if vincenty((nfz_lat, nfz_lng), (lat, lng)).miles <= dist:
+            if vincenty((nfz_lat, nfz_lng), (lat, lng)).miles <= dist:
                 new_nfz = NoFlyZone()
                 new_nfz._latitude  = nfz_lat
                 new_nfz._longitude = nfz_lng
