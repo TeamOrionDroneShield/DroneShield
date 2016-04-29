@@ -8,5 +8,7 @@ The App code has been made using Apache Cordova and IONIC Framework, so both of 
 #DroneShield Server Code
 The code is not organized yet: the usual "__init__.py" has the name of "drone_server.py", while the other features have their own scripts.
 
+In the actual implementation the Flask framework is run using mod-wsgi for Apache server.
+
 #DroneShield App Code
 The "drone_v2-marco" folder contains all the app code
