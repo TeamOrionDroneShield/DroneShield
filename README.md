@@ -12,3 +12,5 @@ In the actual implementation the Flask framework is run using mod-wsgi for Apach
 
 #DroneShield App Code
 The "drone_v2-marco" folder contains all the app code
+
+The directory contains all the code developed during the SpaceAppsChallenge 2016 hackathon in Rome.
