@@ -1,6 +1,1156 @@
 [
     {
-        "outputFile": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+        "outputFile": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 188,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 192,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 183,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2628,
+                        "endColumn": 187,
+                        "endOffset": 2811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 118,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2314,
+                        "endColumn": 118,
+                        "endOffset": 2428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 255,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4484,
+                        "endColumn": 259,
+                        "endOffset": 4739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 135,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2041,
+                        "endColumn": 135,
+                        "endOffset": 2172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 201,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1835,
+                        "endColumn": 205,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 133,
+                    "endOffset": 1320
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 133,
+                        "endOffset": 1830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1325,
+                    "endColumn": 174,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 178,
+                        "endOffset": 1002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 131,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 131,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1632,
+                    "endColumn": 209,
+                    "endOffset": 1837
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1136,
+                        "endColumn": 213,
+                        "endOffset": 1345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1842,
+                    "endColumn": 214,
+                    "endOffset": 2052
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1350,
+                        "endColumn": 218,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2057,
+                    "endColumn": 128,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 128,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endColumn": 196,
+                    "endOffset": 2378
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3574,
+                        "endColumn": 196,
+                        "endOffset": 3766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2383,
+                    "endColumn": 122,
+                    "endOffset": 2501
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3451,
+                        "endColumn": 122,
+                        "endOffset": 3569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2506,
+                    "endColumn": 165,
+                    "endOffset": 2667
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 165,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 164,
+                    "endOffset": 2832
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3286,
+                        "endColumn": 164,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2837,
+                    "endColumn": 120,
+                    "endOffset": 2953
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3165,
+                        "endColumn": 120,
+                        "endOffset": 3281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2958,
+                    "endColumn": 169,
+                    "endOffset": 3123
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 169,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3128,
+                    "endColumn": 128,
+                    "endOffset": 3252
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 128,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3257,
+                    "endColumn": 183,
+                    "endOffset": 3436
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4871,
+                        "endColumn": 183,
+                        "endOffset": 5050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3441,
+                    "endColumn": 126,
+                    "endOffset": 3563
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4744,
+                        "endColumn": 126,
+                        "endOffset": 4866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3568,
+                    "endColumn": 136,
+                    "endOffset": 3700
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3771,
+                        "endColumn": 136,
+                        "endOffset": 3903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 234,
+                    "endOffset": 3935
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4032,
+                        "endColumn": 238,
+                        "endOffset": 4266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3940,
+                    "endColumn": 123,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3908,
+                        "endColumn": 123,
+                        "endOffset": 4027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 114,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4271,
+                        "endColumn": 114,
+                        "endOffset": 4381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 190,
+                    "endOffset": 4365
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2433,
+                        "endColumn": 194,
+                        "endOffset": 2623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4370,
+                    "endColumn": 136,
+                    "endOffset": 4502
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2177,
+                        "endColumn": 136,
+                        "endOffset": 2309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4507,
+                    "endColumn": 203,
+                    "endOffset": 4706
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2957,
+                        "endColumn": 207,
+                        "endOffset": 3160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4711,
+                    "endColumn": 140,
+                    "endOffset": 4847
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2816,
+                        "endColumn": 140,
+                        "endOffset": 2952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4852,
+                    "endColumn": 97,
+                    "endOffset": 4945
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4386,
+                        "endColumn": 97,
+                        "endOffset": 4479
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 188,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 192,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 183,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2628,
+                        "endColumn": 187,
+                        "endOffset": 2811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 118,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2314,
+                        "endColumn": 118,
+                        "endOffset": 2428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 255,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4484,
+                        "endColumn": 259,
+                        "endOffset": 4739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 135,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2041,
+                        "endColumn": 135,
+                        "endOffset": 2172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 201,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1835,
+                        "endColumn": 205,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 133,
+                    "endOffset": 1320
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 133,
+                        "endOffset": 1830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1325,
+                    "endColumn": 174,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 178,
+                        "endOffset": 1002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 131,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 131,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1632,
+                    "endColumn": 209,
+                    "endOffset": 1837
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1136,
+                        "endColumn": 213,
+                        "endOffset": 1345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1842,
+                    "endColumn": 214,
+                    "endOffset": 2052
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1350,
+                        "endColumn": 218,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2057,
+                    "endColumn": 128,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 128,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endColumn": 196,
+                    "endOffset": 2378
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3574,
+                        "endColumn": 196,
+                        "endOffset": 3766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2383,
+                    "endColumn": 122,
+                    "endOffset": 2501
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3451,
+                        "endColumn": 122,
+                        "endOffset": 3569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2506,
+                    "endColumn": 165,
+                    "endOffset": 2667
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 165,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 164,
+                    "endOffset": 2832
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3286,
+                        "endColumn": 164,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2837,
+                    "endColumn": 120,
+                    "endOffset": 2953
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3165,
+                        "endColumn": 120,
+                        "endOffset": 3281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2958,
+                    "endColumn": 169,
+                    "endOffset": 3123
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 169,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3128,
+                    "endColumn": 128,
+                    "endOffset": 3252
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 128,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3257,
+                    "endColumn": 183,
+                    "endOffset": 3436
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4871,
+                        "endColumn": 183,
+                        "endOffset": 5050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3441,
+                    "endColumn": 126,
+                    "endOffset": 3563
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4744,
+                        "endColumn": 126,
+                        "endOffset": 4866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3568,
+                    "endColumn": 136,
+                    "endOffset": 3700
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3771,
+                        "endColumn": 136,
+                        "endOffset": 3903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 234,
+                    "endOffset": 3935
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4032,
+                        "endColumn": 238,
+                        "endOffset": 4266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3940,
+                    "endColumn": 123,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3908,
+                        "endColumn": 123,
+                        "endOffset": 4027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 114,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4271,
+                        "endColumn": 114,
+                        "endOffset": 4381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 190,
+                    "endOffset": 4365
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2433,
+                        "endColumn": 194,
+                        "endOffset": 2623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4370,
+                    "endColumn": 136,
+                    "endOffset": 4502
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2177,
+                        "endColumn": 136,
+                        "endOffset": 2309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4507,
+                    "endColumn": 203,
+                    "endOffset": 4706
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2957,
+                        "endColumn": 207,
+                        "endOffset": 3160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4711,
+                    "endColumn": 140,
+                    "endOffset": 4847
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2816,
+                        "endColumn": 140,
+                        "endOffset": 2952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4852,
+                    "endColumn": 97,
+                    "endOffset": 4945
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4386,
+                        "endColumn": 97,
+                        "endOffset": 4479
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +1161,7 @@
                     "endOffset": 360
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -30,7 +1180,7 @@
                     "endOffset": 496
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -49,7 +1199,7 @@
                     "endOffset": 698
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -68,7 +1218,7 @@
                     "endOffset": 833
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -87,7 +1237,7 @@
                     "endOffset": 965
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +1256,7 @@
                     "endOffset": 1174
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -125,7 +1275,7 @@
                     "endOffset": 1389
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -144,7 +1294,7 @@
                     "endOffset": 1520
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -163,7 +1313,7 @@
                     "endOffset": 1710
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -182,7 +1332,7 @@
                     "endOffset": 1830
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -201,7 +1351,7 @@
                     "endOffset": 1995
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -220,7 +1370,7 @@
                     "endOffset": 2116
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -239,7 +1389,7 @@
                     "endOffset": 2245
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -258,7 +1408,7 @@
                     "endOffset": 2416
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -277,7 +1427,7 @@
                     "endOffset": 2546
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -296,7 +1446,7 @@
                     "endOffset": 2732
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -315,7 +1465,7 @@
                     "endOffset": 2859
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -334,7 +1484,7 @@
                     "endOffset": 3110
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-kn-rIN\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -353,7 +1503,7 @@
                     "endOffset": 3344
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -372,7 +1522,7 @@
                     "endOffset": 3467
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -391,7 +1541,7 @@
                     "endOffset": 3582
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -410,7 +1560,7 @@
                     "endOffset": 3778
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -429,7 +1579,7 @@
                     "endOffset": 3915
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -448,7 +1598,7 @@
                     "endOffset": 4119
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -467,7 +1617,7 @@
                     "endOffset": 4266
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -486,7 +1636,7 @@
                     "endOffset": 4453
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -505,7 +1655,7 @@
                     "endOffset": 4551
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -524,7 +1674,7 @@
                     "endOffset": 4644
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -543,7 +1693,7 @@
                     "endOffset": 4759
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -562,7 +1712,7 @@
                     "endOffset": 4869
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -581,7 +1731,7 @@
                     "endOffset": 4965
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -594,24 +1744,24 @@
         ]
     },
     {
-        "outputFile": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/values-kn-rIN/values-kn-rIN.xml",
+        "outputFile": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 188,
-                    "endOffset": 289
+                    "endColumn": 259,
+                    "endOffset": 360
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 469,
-                        "endColumn": 192,
-                        "endOffset": 657
+                        "startOffset": 3520,
+                        "endColumn": 263,
+                        "endOffset": 3779
                     }
                 }
             },
@@ -619,18 +1769,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 294,
-                    "endColumn": 183,
-                    "endOffset": 473
+                    "startOffset": 365,
+                    "endColumn": 135,
+                    "endOffset": 496
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 2628,
-                        "endColumn": 187,
-                        "endOffset": 2811
+                        "startOffset": 1335,
+                        "endColumn": 135,
+                        "endOffset": 1466
                     }
                 }
             },
@@ -638,18 +1788,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 478,
-                    "endColumn": 118,
-                    "endOffset": 592
+                    "startOffset": 501,
+                    "endColumn": 201,
+                    "endOffset": 698
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 2314,
-                        "endColumn": 118,
-                        "endOffset": 2428
+                        "startOffset": 1129,
+                        "endColumn": 205,
+                        "endOffset": 1330
                     }
                 }
             },
@@ -657,18 +1807,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 597,
-                    "endColumn": 255,
-                    "endOffset": 848
+                    "startOffset": 703,
+                    "endColumn": 134,
+                    "endOffset": 833
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 4484,
-                        "endColumn": 259,
-                        "endOffset": 4739
+                        "startOffset": 994,
+                        "endColumn": 134,
+                        "endOffset": 1124
                     }
                 }
             },
@@ -676,18 +1826,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 853,
-                    "endColumn": 135,
-                    "endOffset": 984
+                    "startOffset": 838,
+                    "endColumn": 131,
+                    "endOffset": 965
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 2041,
-                        "endColumn": 135,
-                        "endOffset": 2172
+                        "startOffset": 862,
+                        "endColumn": 131,
+                        "endOffset": 989
                     }
                 }
             },
@@ -695,18 +1845,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 989,
-                    "endColumn": 201,
-                    "endOffset": 1186
+                    "startOffset": 970,
+                    "endColumn": 208,
+                    "endOffset": 1174
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 1835,
-                        "endColumn": 205,
-                        "endOffset": 2036
+                        "startOffset": 430,
+                        "endColumn": 212,
+                        "endOffset": 638
                     }
                 }
             },
@@ -714,18 +1864,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 1191,
-                    "endColumn": 133,
-                    "endOffset": 1320
+                    "startOffset": 1179,
+                    "endColumn": 214,
+                    "endOffset": 1389
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1701,
-                        "endColumn": 133,
-                        "endOffset": 1830
+                        "startOffset": 643,
+                        "endColumn": 218,
+                        "endOffset": 857
                     }
                 }
             },
@@ -733,18 +1883,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 1325,
-                    "endColumn": 174,
-                    "endOffset": 1495
+                    "startOffset": 1394,
+                    "endColumn": 130,
+                    "endOffset": 1520
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 828,
-                        "endColumn": 178,
-                        "endOffset": 1002
+                        "startOffset": 299,
+                        "endColumn": 130,
+                        "endOffset": 425
                     }
                 }
             },
@@ -752,18 +1902,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1500,
-                    "endColumn": 131,
-                    "endOffset": 1627
+                    "startOffset": 1525,
+                    "endColumn": 189,
+                    "endOffset": 1710
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1569,
-                        "endColumn": 131,
-                        "endOffset": 1696
+                        "startOffset": 2756,
+                        "endColumn": 189,
+                        "endOffset": 2941
                     }
                 }
             },
@@ -771,18 +1921,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1632,
-                    "endColumn": 209,
-                    "endOffset": 1837
+                    "startOffset": 1715,
+                    "endColumn": 119,
+                    "endOffset": 1830
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1136,
-                        "endColumn": 213,
-                        "endOffset": 1345
+                        "startOffset": 2636,
+                        "endColumn": 119,
+                        "endOffset": 2751
                     }
                 }
             },
@@ -790,18 +1940,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1842,
-                    "endColumn": 214,
-                    "endOffset": 2052
+                    "startOffset": 1835,
+                    "endColumn": 164,
+                    "endOffset": 1995
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1350,
-                        "endColumn": 218,
-                        "endOffset": 1564
+                        "startOffset": 2471,
+                        "endColumn": 164,
+                        "endOffset": 2631
                     }
                 }
             },
@@ -809,18 +1959,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 2057,
-                    "endColumn": 128,
-                    "endOffset": 2181
+                    "startOffset": 2000,
+                    "endColumn": 120,
+                    "endOffset": 2116
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1007,
-                        "endColumn": 128,
-                        "endOffset": 1131
+                        "startOffset": 2350,
+                        "endColumn": 120,
+                        "endOffset": 2466
                     }
                 }
             },
@@ -828,126 +1978,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 2186,
-                    "endColumn": 196,
-                    "endOffset": 2378
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3574,
-                        "endColumn": 196,
-                        "endOffset": 3766
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 2383,
-                    "endColumn": 122,
-                    "endOffset": 2501
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3451,
-                        "endColumn": 122,
-                        "endOffset": 3569
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 2506,
-                    "endColumn": 165,
-                    "endOffset": 2667
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 662,
-                        "endColumn": 165,
-                        "endOffset": 823
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 2672,
-                    "endColumn": 164,
-                    "endOffset": 2832
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3286,
-                        "endColumn": 164,
-                        "endOffset": 3446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2837,
-                    "endColumn": 120,
-                    "endOffset": 2953
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3165,
-                        "endColumn": 120,
-                        "endOffset": 3281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2958,
-                    "endColumn": 169,
-                    "endOffset": 3123
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 299,
-                        "endColumn": 169,
-                        "endOffset": 464
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 3128,
+                    "startOffset": 2121,
                     "endColumn": 128,
-                    "endOffset": 3252
+                    "endOffset": 2245
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -959,20 +1995,134 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 3257,
-                    "endColumn": 183,
-                    "endOffset": 3436
+                    "startOffset": 2250,
+                    "endColumn": 170,
+                    "endOffset": 2416
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 4871,
-                        "endColumn": 183,
-                        "endOffset": 5050
+                        "startOffset": 4227,
+                        "endColumn": 170,
+                        "endOffset": 4393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 129,
+                    "endOffset": 2546
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4097,
+                        "endColumn": 129,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2551,
+                    "endColumn": 185,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3911,
+                        "endColumn": 185,
+                        "endOffset": 4092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 126,
+                    "endOffset": 2859
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3784,
+                        "endColumn": 126,
+                        "endOffset": 3906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2864,
+                    "endColumn": 250,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 254,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3115,
+                    "endColumn": 233,
+                    "endOffset": 3344
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3069,
+                        "endColumn": 237,
+                        "endOffset": 3302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3349,
+                    "endColumn": 122,
+                    "endOffset": 3467
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2946,
+                        "endColumn": 122,
+                        "endOffset": 3064
                     }
                 }
             },
@@ -980,18 +2130,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 3441,
-                    "endColumn": 126,
-                    "endOffset": 3563
+                    "startOffset": 3472,
+                    "endColumn": 114,
+                    "endOffset": 3582
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 4744,
-                        "endColumn": 126,
-                        "endOffset": 4866
+                        "startOffset": 3307,
+                        "endColumn": 114,
+                        "endOffset": 3417
                     }
                 }
             },
@@ -999,18 +2149,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 3568,
-                    "endColumn": 136,
-                    "endOffset": 3700
+                    "startOffset": 3587,
+                    "endColumn": 195,
+                    "endOffset": 3778
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 3771,
-                        "endColumn": 136,
-                        "endOffset": 3903
+                        "startOffset": 1608,
+                        "endColumn": 199,
+                        "endOffset": 1803
                     }
                 }
             },
@@ -1018,18 +2168,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 3705,
-                    "endColumn": 234,
-                    "endOffset": 3935
+                    "startOffset": 3783,
+                    "endColumn": 136,
+                    "endOffset": 3915
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 4032,
-                        "endColumn": 238,
-                        "endOffset": 4266
+                        "startOffset": 1471,
+                        "endColumn": 136,
+                        "endOffset": 1603
                     }
                 }
             },
@@ -1037,18 +2187,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3940,
-                    "endColumn": 123,
-                    "endOffset": 4059
+                    "startOffset": 3920,
+                    "endColumn": 203,
+                    "endOffset": 4119
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 3908,
-                        "endColumn": 123,
-                        "endOffset": 4027
+                        "startOffset": 2142,
+                        "endColumn": 207,
+                        "endOffset": 2345
                     }
                 }
             },
@@ -1056,18 +2206,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 4064,
-                    "endColumn": 114,
-                    "endOffset": 4174
+                    "startOffset": 4124,
+                    "endColumn": 146,
+                    "endOffset": 4266
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 4271,
-                        "endColumn": 114,
-                        "endOffset": 4381
+                        "startOffset": 1995,
+                        "endColumn": 146,
+                        "endOffset": 2137
                     }
                 }
             },
@@ -1075,18 +2225,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 4179,
-                    "endColumn": 190,
-                    "endOffset": 4365
+                    "startOffset": 4271,
+                    "endColumn": 186,
+                    "endOffset": 4453
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 2433,
-                        "endColumn": 194,
-                        "endOffset": 2623
+                        "startOffset": 1808,
+                        "endColumn": 186,
+                        "endOffset": 1990
                     }
                 }
             },
@@ -1094,18 +2244,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 4370,
-                    "endColumn": 136,
-                    "endOffset": 4502
+                    "startOffset": 4458,
+                    "endColumn": 97,
+                    "endOffset": 4551
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 2177,
-                        "endColumn": 136,
-                        "endOffset": 2309
+                        "startOffset": 3422,
+                        "endColumn": 97,
+                        "endOffset": 3515
                     }
                 }
             },
@@ -1113,18 +2263,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 4507,
-                    "endColumn": 203,
-                    "endOffset": 4706
+                    "startOffset": 4556,
+                    "endColumn": 92,
+                    "endOffset": 4644
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 2957,
-                        "endColumn": 207,
-                        "endOffset": 3160
+                        "startOffset": 4398,
+                        "endColumn": 92,
+                        "endOffset": 4486
                     }
                 }
             },
@@ -1132,18 +2282,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 4711,
-                    "endColumn": 140,
-                    "endOffset": 4847
+                    "startOffset": 4649,
+                    "endColumn": 114,
+                    "endOffset": 4759
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 2816,
-                        "endColumn": 140,
-                        "endOffset": 2952
+                        "startOffset": 4491,
+                        "endColumn": 114,
+                        "endOffset": 4601
                     }
                 }
             },
@@ -1151,42 +2301,61 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 4852,
-                    "endColumn": 97,
-                    "endOffset": 4945
+                    "startOffset": 4764,
+                    "endColumn": 109,
+                    "endOffset": 4869
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 4386,
-                        "endColumn": 97,
-                        "endOffset": 4479
+                        "startOffset": 326,
+                        "endColumn": 109,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4874,
+                    "endColumn": 95,
+                    "endOffset": 4965
+                },
+                "from": {
+                    "file": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 95,
+                        "endOffset": 321
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/values-kn-rIN/values-kn-rIN.xml",
+        "outputFile": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 188,
-                    "endOffset": 289
+                    "endColumn": 259,
+                    "endOffset": 360
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 469,
-                        "endColumn": 192,
-                        "endOffset": 657
+                        "startOffset": 3520,
+                        "endColumn": 263,
+                        "endOffset": 3779
                     }
                 }
             },
@@ -1194,18 +2363,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 294,
-                    "endColumn": 183,
-                    "endOffset": 473
+                    "startOffset": 365,
+                    "endColumn": 135,
+                    "endOffset": 496
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 2628,
-                        "endColumn": 187,
-                        "endOffset": 2811
+                        "startOffset": 1335,
+                        "endColumn": 135,
+                        "endOffset": 1466
                     }
                 }
             },
@@ -1213,18 +2382,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 478,
-                    "endColumn": 118,
-                    "endOffset": 592
+                    "startOffset": 501,
+                    "endColumn": 201,
+                    "endOffset": 698
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 2314,
-                        "endColumn": 118,
-                        "endOffset": 2428
+                        "startOffset": 1129,
+                        "endColumn": 205,
+                        "endOffset": 1330
                     }
                 }
             },
@@ -1232,18 +2401,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 597,
-                    "endColumn": 255,
-                    "endOffset": 848
+                    "startOffset": 703,
+                    "endColumn": 134,
+                    "endOffset": 833
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 4484,
-                        "endColumn": 259,
-                        "endOffset": 4739
+                        "startOffset": 994,
+                        "endColumn": 134,
+                        "endOffset": 1124
                     }
                 }
             },
@@ -1251,18 +2420,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 853,
-                    "endColumn": 135,
-                    "endOffset": 984
+                    "startOffset": 838,
+                    "endColumn": 131,
+                    "endOffset": 965
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 2041,
-                        "endColumn": 135,
-                        "endOffset": 2172
+                        "startOffset": 862,
+                        "endColumn": 131,
+                        "endOffset": 989
                     }
                 }
             },
@@ -1270,18 +2439,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 989,
-                    "endColumn": 201,
-                    "endOffset": 1186
+                    "startOffset": 970,
+                    "endColumn": 208,
+                    "endOffset": 1174
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 1835,
-                        "endColumn": 205,
-                        "endOffset": 2036
+                        "startOffset": 430,
+                        "endColumn": 212,
+                        "endOffset": 638
                     }
                 }
             },
@@ -1289,18 +2458,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 1191,
-                    "endColumn": 133,
-                    "endOffset": 1320
+                    "startOffset": 1179,
+                    "endColumn": 214,
+                    "endOffset": 1389
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1701,
-                        "endColumn": 133,
-                        "endOffset": 1830
+                        "startOffset": 643,
+                        "endColumn": 218,
+                        "endOffset": 857
                     }
                 }
             },
@@ -1308,18 +2477,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 1325,
-                    "endColumn": 174,
-                    "endOffset": 1495
+                    "startOffset": 1394,
+                    "endColumn": 130,
+                    "endOffset": 1520
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 828,
-                        "endColumn": 178,
-                        "endOffset": 1002
+                        "startOffset": 299,
+                        "endColumn": 130,
+                        "endOffset": 425
                     }
                 }
             },
@@ -1327,18 +2496,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1500,
-                    "endColumn": 131,
-                    "endOffset": 1627
+                    "startOffset": 1525,
+                    "endColumn": 189,
+                    "endOffset": 1710
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1569,
-                        "endColumn": 131,
-                        "endOffset": 1696
+                        "startOffset": 2756,
+                        "endColumn": 189,
+                        "endOffset": 2941
                     }
                 }
             },
@@ -1346,18 +2515,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1632,
-                    "endColumn": 209,
-                    "endOffset": 1837
+                    "startOffset": 1715,
+                    "endColumn": 119,
+                    "endOffset": 1830
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1136,
-                        "endColumn": 213,
-                        "endOffset": 1345
+                        "startOffset": 2636,
+                        "endColumn": 119,
+                        "endOffset": 2751
                     }
                 }
             },
@@ -1365,18 +2534,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1842,
-                    "endColumn": 214,
-                    "endOffset": 2052
+                    "startOffset": 1835,
+                    "endColumn": 164,
+                    "endOffset": 1995
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1350,
-                        "endColumn": 218,
-                        "endOffset": 1564
+                        "startOffset": 2471,
+                        "endColumn": 164,
+                        "endOffset": 2631
                     }
                 }
             },
@@ -1384,18 +2553,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 2057,
-                    "endColumn": 128,
-                    "endOffset": 2181
+                    "startOffset": 2000,
+                    "endColumn": 120,
+                    "endOffset": 2116
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1007,
-                        "endColumn": 128,
-                        "endOffset": 1131
+                        "startOffset": 2350,
+                        "endColumn": 120,
+                        "endOffset": 2466
                     }
                 }
             },
@@ -1403,126 +2572,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 2186,
-                    "endColumn": 196,
-                    "endOffset": 2378
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3574,
-                        "endColumn": 196,
-                        "endOffset": 3766
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 2383,
-                    "endColumn": 122,
-                    "endOffset": 2501
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3451,
-                        "endColumn": 122,
-                        "endOffset": 3569
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 2506,
-                    "endColumn": 165,
-                    "endOffset": 2667
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 662,
-                        "endColumn": 165,
-                        "endOffset": 823
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 2672,
-                    "endColumn": 164,
-                    "endOffset": 2832
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3286,
-                        "endColumn": 164,
-                        "endOffset": 3446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2837,
-                    "endColumn": 120,
-                    "endOffset": 2953
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3165,
-                        "endColumn": 120,
-                        "endOffset": 3281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2958,
-                    "endColumn": 169,
-                    "endOffset": 3123
-                },
-                "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 299,
-                        "endColumn": 169,
-                        "endOffset": 464
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 3128,
+                    "startOffset": 2121,
                     "endColumn": 128,
-                    "endOffset": 3252
+                    "endOffset": 2245
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1534,20 +2589,134 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 3257,
-                    "endColumn": 183,
-                    "endOffset": 3436
+                    "startOffset": 2250,
+                    "endColumn": 170,
+                    "endOffset": 2416
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 4871,
-                        "endColumn": 183,
-                        "endOffset": 5050
+                        "startOffset": 4227,
+                        "endColumn": 170,
+                        "endOffset": 4393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 129,
+                    "endOffset": 2546
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4097,
+                        "endColumn": 129,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2551,
+                    "endColumn": 185,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3911,
+                        "endColumn": 185,
+                        "endOffset": 4092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 126,
+                    "endOffset": 2859
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3784,
+                        "endColumn": 126,
+                        "endOffset": 3906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2864,
+                    "endColumn": 250,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 254,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3115,
+                    "endColumn": 233,
+                    "endOffset": 3344
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3069,
+                        "endColumn": 237,
+                        "endOffset": 3302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3349,
+                    "endColumn": 122,
+                    "endOffset": 3467
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2946,
+                        "endColumn": 122,
+                        "endOffset": 3064
                     }
                 }
             },
@@ -1555,18 +2724,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 3441,
-                    "endColumn": 126,
-                    "endOffset": 3563
+                    "startOffset": 3472,
+                    "endColumn": 114,
+                    "endOffset": 3582
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 4744,
-                        "endColumn": 126,
-                        "endOffset": 4866
+                        "startOffset": 3307,
+                        "endColumn": 114,
+                        "endOffset": 3417
                     }
                 }
             },
@@ -1574,18 +2743,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 3568,
-                    "endColumn": 136,
-                    "endOffset": 3700
+                    "startOffset": 3587,
+                    "endColumn": 195,
+                    "endOffset": 3778
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 3771,
-                        "endColumn": 136,
-                        "endOffset": 3903
+                        "startOffset": 1608,
+                        "endColumn": 199,
+                        "endOffset": 1803
                     }
                 }
             },
@@ -1593,18 +2762,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 3705,
-                    "endColumn": 234,
-                    "endOffset": 3935
+                    "startOffset": 3783,
+                    "endColumn": 136,
+                    "endOffset": 3915
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 4032,
-                        "endColumn": 238,
-                        "endOffset": 4266
+                        "startOffset": 1471,
+                        "endColumn": 136,
+                        "endOffset": 1603
                     }
                 }
             },
@@ -1612,18 +2781,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3940,
-                    "endColumn": 123,
-                    "endOffset": 4059
+                    "startOffset": 3920,
+                    "endColumn": 203,
+                    "endOffset": 4119
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 3908,
-                        "endColumn": 123,
-                        "endOffset": 4027
+                        "startOffset": 2142,
+                        "endColumn": 207,
+                        "endOffset": 2345
                     }
                 }
             },
@@ -1631,18 +2800,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 4064,
-                    "endColumn": 114,
-                    "endOffset": 4174
+                    "startOffset": 4124,
+                    "endColumn": 146,
+                    "endOffset": 4266
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 4271,
-                        "endColumn": 114,
-                        "endOffset": 4381
+                        "startOffset": 1995,
+                        "endColumn": 146,
+                        "endOffset": 2137
                     }
                 }
             },
@@ -1650,18 +2819,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 4179,
-                    "endColumn": 190,
-                    "endOffset": 4365
+                    "startOffset": 4271,
+                    "endColumn": 186,
+                    "endOffset": 4453
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 2433,
-                        "endColumn": 194,
-                        "endOffset": 2623
+                        "startOffset": 1808,
+                        "endColumn": 186,
+                        "endOffset": 1990
                     }
                 }
             },
@@ -1669,18 +2838,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 4370,
-                    "endColumn": 136,
-                    "endOffset": 4502
+                    "startOffset": 4458,
+                    "endColumn": 97,
+                    "endOffset": 4551
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 2177,
-                        "endColumn": 136,
-                        "endOffset": 2309
+                        "startOffset": 3422,
+                        "endColumn": 97,
+                        "endOffset": 3515
                     }
                 }
             },
@@ -1688,18 +2857,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 4507,
-                    "endColumn": 203,
-                    "endOffset": 4706
+                    "startOffset": 4556,
+                    "endColumn": 92,
+                    "endOffset": 4644
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 2957,
-                        "endColumn": 207,
-                        "endOffset": 3160
+                        "startOffset": 4398,
+                        "endColumn": 92,
+                        "endOffset": 4486
                     }
                 }
             },
@@ -1707,18 +2876,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 4711,
-                    "endColumn": 140,
-                    "endOffset": 4847
+                    "startOffset": 4649,
+                    "endColumn": 114,
+                    "endOffset": 4759
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 2816,
-                        "endColumn": 140,
-                        "endOffset": 2952
+                        "startOffset": 4491,
+                        "endColumn": 114,
+                        "endOffset": 4601
                     }
                 }
             },
@@ -1726,18 +2895,37 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 4852,
-                    "endColumn": 97,
-                    "endOffset": 4945
+                    "startOffset": 4764,
+                    "endColumn": 109,
+                    "endOffset": 4869
                 },
                 "from": {
-                    "file": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml",
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 4386,
-                        "endColumn": 97,
-                        "endOffset": 4479
+                        "startOffset": 326,
+                        "endColumn": 109,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4874,
+                    "endColumn": 95,
+                    "endOffset": 4965
+                },
+                "from": {
+                    "file": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 95,
+                        "endOffset": 321
                     }
                 }
             }

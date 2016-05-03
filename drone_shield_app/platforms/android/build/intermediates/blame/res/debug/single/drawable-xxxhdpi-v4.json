@@ -1,11 +1,39 @@
 [
     {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
         "merged": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
         "source": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
     },
     {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
         "merged": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
         "source": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
     },
     {
         "merged": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
@@ -14,5 +42,9 @@
     {
         "merged": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
         "source": "C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
     }
 ]

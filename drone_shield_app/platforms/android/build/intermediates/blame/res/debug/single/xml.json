@@ -1,14 +1,22 @@
 [
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/res/xml/config.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\res\\xml\\config.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\res\\xml\\config.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\res\\xml\\config.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/res/xml/config.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\res\\xml\\config.xml"
     }
 ]

@@ -6,9 +6,9 @@
   padding: 30px;
   font-size: 40px;
   background: $warning;
-  position: relative;
-  top: 130px; Adjust to where you want it 
-  left: 30px;  Adjust to where you want it 
+  position: fixed;
+  bottom: 30px;  
+  left: 10px;  
   z-index: 9999;
 }
 

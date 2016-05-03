@@ -4,123 +4,18 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
     <link href="css/ionic.css" rel="stylesheet">
     <link href="css/index.css" rel="stylesheet">
-    <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" media="all" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="http://hafizbilal112.github.io/ion-fab-button/ion-fabButton.css"/>
+    <link href="css/ionicons.min.css" media="all" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/ion-fabButton.css"/>
     <script src="js/function.js"></script>
     <script type="text/javascript" src="cordova.js"></script>
-    <script src="http://code.ionicframework.com/1.1.0/js/ionic.bundle.js"></script>
-    <script src="http://hafizbilal112.github.io/ion-fab-button/ion-fabButton.js"></script>
+    <script src="js/ionic.bundle.js"></script>
+    <script src="js/ion-fabButton.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAxB_OT6rzbFd1R1NZvv0UzYQAqPIKTJkg"></script>
-    <script type="text/javascript">
-        function init(){
-            document.addEventListener("deviceready", onDeviceReady, false);
-        }
-
-        function onDeviceReady(html) {
-          StatusBar.backgroundColorByHexString("#15a3f4");
-
-            window.onload = getNfz(42,12);
-           // window.onload = getObstacle(42,12);
-            var json = window.localStorage.getItem('json-nfz');
-            //var json-obs = window.localStorage.getItem('json-obs');
-            var arrays = JSON.parse(json);
-            var defArrays = arrays.data;
-           
-            
-          
-            var directionsDisplay,
-                directionsService,
-                map;
-            var colors = new Array("","");
-            var level = 4;
-            
-       
-                // Create marker
-              var directionsService = new google.maps.DirectionsService();
-              directionsDisplay = new google.maps.DirectionsRenderer();
-              var city = new google.maps.LatLng(42,12);
-              var mapOptions = { zoom:12, mapTypeId: google.maps.MapTypeId.ROADMAP, center: city }
-              map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
-              
-              for (var key in defArrays){
-                   
-                   switch(defArrays[key].level){
-                      case 0:
-                          colors[0] = "#0c559f";
-                          colors[1] = "#1f00dd";
-                          break;
-                      case 3:
-                          colors[0] = "#e9dd1b";
-                          colors[1] = "#928900";
-                          break;
-                      case 4:
-                          colors[0] = "#f32fff";
-                          colors[1] = "#57005c";
-                          break;
-                      default:
-                          colors[0] = "#cc0707";
-                          colors[1] = "#a50000";
-
-                       }
-                 //alert(defArrays[key].name +" NAME - " + defArrays[key].lat +" lat - "+ defArrays[key].lng +" lng - ");
-                  var radius = defArrays[key].radius;
-                  if(radius < 100)
-                      radius += 200;
-                  //alert(defArrays[key].name);
-                  city = new google.maps.LatLng(defArrays[key].lat,defArrays[key].lng);
-                  var cityCircle = new google.maps.Circle({
-                    strokeColor: colors[0],
-                    strokeOpacity: 0.8,
-                    strokeWeight: 2,
-                    fillColor: colors[1],
-                    fillOpacity: 0.35,
-                    map: map,
-                    center: city,
-                    radius: radius
-                  });
-              }   
-              var icon = "img/antenna.png";
-              var beachMarker = new google.maps.Marker({
-                position: {lat: 41.812345, lng: 12.512505},
-                map: map,
-                icon: icon
-              });
-              var icon = "img/drone.png";
-              var beachMarker = new google.maps.Marker({
-                position: {lat:  41.829079, lng: 12.464719},
-                map: map,
-                icon: icon
-              });
-              var icon = "img/pump.png";
-              var beachMarker = new google.maps.Marker({
-                position: {lat: 41.7875263, lng: 12.3581497},
-                map: map,
-                icon: icon
-              });
-              var icon = "img/drone.png";
-              var beachMarker = new google.maps.Marker({
-                position: {lat:  41.955961, lng: 12.464719},
-                map: map,
-                icon: icon
-              });
-              
-              directionsDisplay.setMap(map);
-
-        }
-    </script>
-
-    <script type="text/javascript">
-    
-
-    
-
-    </script>
      
   </head>
 
   <body onload="init()">
-    
     
     <ion-side-menus>
         
@@ -135,29 +30,22 @@
             <h1 class="title">Profilo</h1>
           </ion-header-bar>
           <ion-content has-header="true">
-            <ul class="list">
-              <br>
-                <li>
-                  <center>
-                    <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/0a8/0a4/347673b.jpg" style="border-radius:100%;width:100px">
-                  </center>
-                </li>
-              <br> 
+            <ul class="list"> 
             </ul>
           </ion-content>
         </ion-side-menu> 
       </ion-side-menus>
 
     <script id="home.html" type="text/ng-template">
-      <ion-view title="Drone">
-
+      <ion-view title="Drone Shield">
+       
       <ion-nav-buttons side="left">
-        <button class="button button-icon button-clear ion-navicon" ng-click="showMenu()"></button>
+        <button class="button button-icon button-clear ion-navicon"></button>
       </ion-nav-buttons>
-
+      
       <ion-nav-buttons side="right">
         <button class="button button-icon button-clear ion-android-search" style="right:30px"></button>
-        <button class="button button-icon button-clear ion-android-map"       style="right:15px"></button>
+        <button class="button button-icon button-clear ion-android-map"       style="right:15px" onclick="view_maps()"></button>
         <button class="button button-icon button-clear ion-android-share-alt"    style="padding-right:8px"></button>
       </ion-nav-buttons>
 
@@ -166,20 +54,20 @@
           <a class="tab-item active" href="#">
             Today
           </a>
-          <a class="tab-item" href="#/come_donare">
-            Tomorrow
+          <a class="tab-item" href="#/forecast" onclick="set_weather_next_day()">
+            Forecast
           </a>
-          <a class="tab-item" href="#/contattaci">
-            after tomorrow
+          <a class="tab-item" href="#/social">
+            Social
           </a>
         </div>
       </div>
 
-        <ion-content><br><br><br>
+        <ion-content><br><br>
 
         <div class="card">
           <div class="item item-text-wrap">
-            <center><span class="balanced">Oggi è una giornata ideale per volare</span></center>
+            <center><span class="balanced" id="response_weather"></span></center>
           </div>
         </div>
 
@@ -189,11 +77,11 @@
                 <div class="float-button" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="save_value('location_cinema');settings();">
                     <span class="height-fix">
                     <a class="content" style="color:whitesmoke">
-                      <i class="icon ion-android-cloud-outline"> </i>
+                      <i class="icon ion-android-cloud-outline"></i>
                     </a>
                   </span>
-                </div>
-                <p>Weather</p>
+                </div><br>
+                <p id="weather"></p>
             </center>
           </div>
           <div class="col">
@@ -204,19 +92,19 @@
                       <i class="icon ion-android-sunny"> </i>
                     </a>
                   </span>
-                </div>
-                <p>Sunrise</p>
+                </div><br>
+                <p id="sunrise"></p>
             </center></div>
           <div class="col">
             <center>
                 <div class="float-button" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="save_value('location_cinema');settings();">
                     <span class="height-fix">
                     <a class="content" style="color:whitesmoke">
-                      <i class="icon ion-android-sunny"> </i>
+                      <i class="icon ion-ios-moon-outline"> </i>
                     </a>
                   </span>
-                </div>
-                <p>Sunset</p>
+                </div><br>
+                <p id="sunset"></p>
             </center></div>
         </div>
         <br>
@@ -229,13 +117,13 @@
                       <i class="icon ion-ios-speedometer-outline"> </i>
                     </a>
                   </span>
-                </div>
-                <p>Wind Speed</p>
+                </div><br>
+                <p id="speed"></p>
             </center>
           </div>
           <div class="col">
             <center>
-                <img src="https://cdn3.iconfinder.com/data/icons/drone-business/512/drone-512.png" style="width:100px">
+                <img onclick="forecast()" src="https://cdn3.iconfinder.com/data/icons/drone-business/512/drone-512.png" style="width:100px">
             </center></div>
           <div class="col">
             <center>
@@ -245,8 +133,8 @@
                       <i class="icon ion-arrow-right-a"> </i>
                     </a>
                   </span>
-                </div>
-                <p>Wind direct</p>
+                </div><br>
+                <p id="direction"></p>
             </center></div>
         </div>
         <br>
@@ -259,8 +147,8 @@
                       <i class="icon ion-thermometer"> </i>
                     </a>
                   </span>
-                </div>
-                <p>Temperature</p>
+                </div><br>
+                <p id="temp"></p>
             </center>
           </div>
 
@@ -272,19 +160,19 @@
                       <i class="icon ion-ios-rainy-outline"> </i>
                     </a>
                   </span>
-                </div>
-                <p>Precip Prob</p>
+                </div><br>
+                <p id="prob_rain"></p>
             </center></div>
           <div class="col">
             <center>
                 <div class="float-button" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="save_value('location_cinema');settings();">
                     <span class="height-fix">
                     <a class="content" style="color:whitesmoke">
-                      <i class="icon ion-waterdrop"> </i>
+                      <i class="icon ion-compass"> </i>
                     </a>
                   </span>
-                </div>
-                <p>humidity</p>
+                </div><br>
+                <p id="geomagnetic"></p>
             </center></div>
         </div>  
 
@@ -292,26 +180,62 @@
       </ion-view>
     </script>
 
-     <script id="social.html" type="text/ng-template">
-      <ion-view title="Drone">
-
+    <script id="forecast.html" type="text/ng-template">
+      <ion-view title="Drone Shield">
+ 
       <ion-nav-buttons side="left">
-        <button class="button button-icon button-clear ion-navicon" ng-click="showMenu()"></button>
+        <button class="button button-icon button-clear ion-navicon"></button>
       </ion-nav-buttons>
-
+      
       <ion-nav-buttons side="right">
         <button class="button button-icon button-clear ion-android-search" style="right:30px"></button>
-        <button class="button button-icon button-clear ion-android-map"       style="right:15px"></button>
+        <button class="button button-icon button-clear ion-android-map"       style="right:15px" onclick="view_maps();"></button>
         <button class="button button-icon button-clear ion-android-share-alt"    style="padding-right:8px"></button>
       </ion-nav-buttons>
 
       <div class="tabs-striped tabs-top tabs-background-positive tabs-color-light">
         <div class="tabs" style="box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);">
-          <a class="tab-item " href="#">
+          <a class="tab-item " href="#/home">
             Today
           </a>
-          <a class="tab-item" href="#/come_donare">
-            Tomorrow
+          <a class="tab-item active" href="#/forecast" onclick="set_weather_next_day()">
+            Forecast
+          </a>
+          <a class="tab-item " href="#/social">
+            Social
+          </a>
+        </div>
+      </div>
+
+        <ion-content><br><br>
+ 
+        <div class="card"><div class="item item-weather item-weather-rain item-text-wrap"><div class="row"><div class="col">Rome<br><br><span class="item-weather-description" id="weather_next_day"></span></div><div class="col"><br><br><span class="item-weather-description" style="float:right" id="date"></span></div></div><br><br><div class="row"><div class="col item-icon-weather" ><img style="width: 100px;" src="weather/weather-showers-day.png"></div><div class="col"><span class="item-weather-temp" id="high"></span></div></div></div></div>
+        <div class="card"><div class="item item-weather item-weather-rain item-text-wrap"><div class="row"><div class="col">Rome<br><br><span class="item-weather-description" id="weather_next_day_2"></span></div><div class="col"><br><br><span class="item-weather-description" style="float:right" id="date_2"></span></div></div><br><br><div class="row"><div class="col item-icon-weather" ><img style="width: 100px;" src="weather/weather-clouds.png"></div><div class="col"><span class="item-weather-temp" id="high_2"></span></div></div></div></div>
+        </ion-content>
+         
+      </ion-view>
+    </script>
+
+     <script id="social.html" type="text/ng-template">
+      <ion-view title="Drone Shield">
+ 
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon"></button>
+      </ion-nav-buttons>
+      
+      <ion-nav-buttons side="right">
+        <button class="button button-icon button-clear ion-android-search" style="right:30px"></button>
+        <button class="button button-icon button-clear ion-android-map"       style="right:15px" onclick="view_maps();"></button>
+        <button class="button button-icon button-clear ion-android-share-alt"    style="padding-right:8px"></button>
+      </ion-nav-buttons>
+
+      <div class="tabs-striped tabs-top tabs-background-positive tabs-color-light">
+        <div class="tabs" style="box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);">
+          <a class="tab-item " href="#/home">
+            Today
+          </a>
+          <a class="tab-item" href="#/forecast" onclick="set_weather_next_day()">
+            Forecast
           </a>
           <a class="tab-item active" href="#/social">
             Social
@@ -319,33 +243,33 @@
         </div>
       </div>
 
-        <ion-content><br><br><br>
+        <ion-content><br><br>
+
+        <div class="card"> 
+          <div class="item item-text-wrap" style="padding:0px">
+            <img src="img/img1.jpg" style="width:100%">
+              <div class="list"> 
+                <a class="item item-avatar" href="#">
+                  <img src="img/top_gun.jpg"> 
+                    <h2>Top Gun</h2>
+                    <p>Drone super mega advance.</p>
+                </a>
+              </div>
+            </div>
+          </div>
 
         <div class="card">
           <div class="item item-text-wrap" style="padding:0px">
-            <img src ="https://i.ytimg.com/vi/5GJSptBu_9Q/maxresdefault.jpg" style="width:100%">
-            <div class="list"> 
+            <img src="img/img2.jpg" style="width:100%">
+              <div class="list">
                 <a class="item item-avatar" href="#">
-                  <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/0a8/0a4/347673b.jpg">
-                  <h2>Trimarchi Daniele</h2>
-                  <p>DJI 1 super mega advance.</p>
-                </a> 
+                  <img src="img/niobe.jpg"> 
+                    <h2>Niobe</h2> 
+                    <p>Drone 3 advance.</p>
+                </a>
+              </div>
             </div>
           </div>
-        </div>
-
-        <div class="card">
-          <div class="item item-text-wrap" style="padding:0px">
-            <img src ="http://www.ccbusinessphotography.com/wp-content/uploads/2015/01/G0010230.jpg" style="width:100%">
-            <div class="list"> 
-                <a class="item item-avatar" href="#">
-                  <img src="img/nnl.jpg">
-                  <h2>Innella Marco</h2>
-                  <p>DJI 3 advance.</p>
-                </a> 
-            </div>
-          </div>
-        </div>
 
         </ion-content>
         <div class="float-button-bck" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="fnz();">
@@ -357,40 +281,88 @@
         </div>
       </ion-view>
     </script>
-     <script id="maps.html" type="text/ng-template">
-      <ion-view title="Drone">
 
+    <script id="add_new_fly_zone.html" type="text/ng-template">
+      <ion-view title="Drone Shield">
+ 
       <ion-nav-buttons side="left">
-        <button class="button button-icon button-clear ion-navicon" ng-click="showMenu()"></button>
+        <button class="button button-icon button-clear ion-navicon"></button>
       </ion-nav-buttons>
-
+      
       <ion-nav-buttons side="right">
         <button class="button button-icon button-clear ion-android-search" style="right:30px"></button>
         <button class="button button-icon button-clear ion-android-map"       style="right:15px"></button>
         <button class="button button-icon button-clear ion-android-share-alt"    style="padding-right:8px"></button>
       </ion-nav-buttons>
 
+        <ion-content>
+
+        <div class="list">
+        <label class="item item-input item-select">
+            <div class="input-label">
+              Category
+            </div>
+            <select>
+              <option selected>Fly Zone</option>
+              <option>Obstacles</option>
+            </select>
+          </label> 
+          <label class="input-label" style="max-width:100%;width:100%">
+            <div class="range range-assertive">
+              <i class="icon ion-pinpoint"></i>
+              <input type="range" min="0" max="{{user.max}}" value="{{user.min}}" step="1" ng-model="user.value">{{user.value}} / {{user.max}}
+            </div>
+          </label> 
+          <label class="item item-input item-stacked-label">
+            <span class="input-label">Name</span>
+            <input type="text">
+          </label>
+          <label class="item item-input item-stacked-label">
+            <span class="input-label">Surname</span>
+            <input type="text">
+          </label>
+          <label class="item item-input item-stacked-label">
+            <span class="input-label">Description Category</span>
+            <input type="text"><br><br>
+          </label>
+        </div>
+
+        </ion-content>
+        <div class="float-button-bck" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="fnz();">
+          <span class="height-fix">
+            <a class="content" style="color:whitesmoke">
+              <i class="icon ion-android-done"> </i>
+            </a>
+          </span>
+        </div>
+      </ion-view>
+    </script>
+
+     <script id="view_maps.html" type="text/ng-template">
+      <ion-view title="Drone Shield">
+
+      <ion-nav-bar class="bar-positive">
+        <ion-nav-back-button class="button-icon ion-android-arrow-back"></ion-nav-back-button>
+      </ion-nav-bar> 
+      
+      <ion-nav-buttons side="right">
+        <button class="button button-icon button-clear ion-android-search" style="right:30px"></button>
+        <button class="button button-icon button-clear ion-android-map"       style="right:15px" onclick="view_maps()"></button>
+        <button class="button button-icon button-clear ion-android-share-alt"    style="padding-right:8px"></button>
+      </ion-nav-buttons>
+
       <div class="tabs-striped tabs-top tabs-background-positive tabs-color-light">
         <div class="tabs" style="box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);">
-          <a class="tab-item " href="#">
-            Today
-          </a>
-          <a class="tab-item" href="#/come_donare">
-            Tomorrow
-          </a>
-          <a class="tab-item" href="#/social">
-            Social
-          </a>
+          <a class="tab-item active" href="#">
+            Check Area No Fly Zone
+          </a> 
         </div>
       </div>
 
         <ion-content>
-          <div id="map_canvas" style="height:100%; width:100%;"></div>
-        
-
-        
+          <div id="map_canvas" style="height:100%; width:100%;"></div> 
         </ion-content>
-        <div class="float-button-plus" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="fnz();">
+        <div class="float-button-plus" style="background-color:#387ef5;box-shadow:0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)" onclick="add_new_fly_zone();">
           <span class="height-fix">
             <a class="content" style="color:whitesmoke">
               <i class="icon ion-plus-round"> </i>
@@ -416,22 +388,32 @@ angular.module('ionicApp', ['ionic'])
       url: '/social',
       templateUrl: 'social.html'
     })
-    .state('maps', {
-      url: '/maps',
-      templateUrl: 'maps.html'
+    .state('add_new_fly_zone', {
+      url: '/add_new_fly_zone',
+      templateUrl: 'add_new_fly_zone.html'
+    })
+    .state('forecast', {
+      url: '/forecast',
+      templateUrl: 'forecast.html'
+    })
+    .state('view_maps', {
+      url: '/view_maps',
+      templateUrl: 'view_maps.html'
     });
 
 
-   $urlRouterProvider.otherwise("/maps");
+   $urlRouterProvider.otherwise("/home");
 
 })
 .controller('NavCtrl', function($scope, $ionicSideMenuDelegate,$ionicPlatform) {
   $ionicPlatform.offHardwareBackButton(function() {
  
-});
-  $scope.showMenu = function () {
-    $ionicSideMenuDelegate.toggleLeft();
-  };
+}); 
+  $scope.user= {
+        min:0,
+        max:5000,
+        value:1
+    }
 })
 .controller('HomeTabCtrl', function($scope) {
 });
@@ -527,5 +509,90 @@ angular.module('ionicApp', ['ionic'])
     color: #999;
     text-transform: uppercase;
     text-align: center;
+}
+</style>
+
+<style type="text/css">
+
+.float-button {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 30px;
+  padding: 30px;
+  font-size: 40px;
+  background: $warning;
+  position: relative;
+  /* bottom: 20px; Adjust to where you want it */
+ /* right: 20px;  Adjust to where you want it */
+  z-index: 9999;
+}
+
+.float-button-bck {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 30px;
+  padding: 30px;
+  font-size: 40px;
+  background: $warning;
+  position: fixed;
+  bottom: 15px; /* Adjust to where you want it */
+  right: 20px; /* Adjust to where you want it */
+  z-index: 9999;
+}
+
+.float-button-bck .height_fix {
+  margin-top: 100%;
+}
+
+.float-button-bck .content {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  margin-top: -20px; /* Note, this must be half the font size */
+  color: $light;
+}
+
+.float-button .height_fix {
+  margin-top: 100%;
+}
+
+.float-button .content {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  margin-top: -20px; /* Note, this must be half the font size */
+  color: $light;
+}
+
+.item-weather{
+  color: white;
+  font-size: xx-large;
+}
+
+.item-weather-rain{
+  background-color: #687F92;
+}
+
+.item-weather-temp{
+  font-size: -webkit-xxx-large;
+  position: relative;
+  float: right;
+  top: 30px;
+}
+
+.item-weather-description{
+  font-size: large;
+}
+
+.item-icon-weather{
+  position: relative; 
 }
 </style>

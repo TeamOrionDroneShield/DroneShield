@@ -1,14 +1,22 @@
 [
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/drawable-land-mdpi-v4/screen.png",
-        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/res/drawable-land-mdpi/screen.png"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\screen.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\res\\drawable-land-mdpi\\screen.png"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/drawable-land-mdpi-v4/screen.png",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/res/drawable-land-mdpi/screen.png"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\screen.png",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\res\\drawable-land-mdpi\\screen.png"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\screen.png",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\res\\drawable-land-mdpi\\screen.png"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\screen.png",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\screen.png",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\screen.png",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\res\\drawable-land-mdpi\\screen.png"
     }
 ]

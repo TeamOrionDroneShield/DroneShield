@@ -2,60 +2,109 @@
 <items version="2" >
 
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_f0c8333bcec2983ce34fee2180788a17a0cb8a90.jar" />
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_4b72c266f52e33af424a2597fde967f064cb8313.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.1.0_114eae03110fd68fea871badac09361aacb261e4.jar" />
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_04d7067cfdf4c19b604cd07433b650ac9a863fdd.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_7f6058ef3cc7b594ffa064604340b597965dd93b.jar" />
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_2d1133acddfee6f1fc33f428ae28eeed4fb29d8a.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="14f6b7d7b102c5bed9e741057bea143adfe0df35">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_a43dfe45e947e289151c9a5780587a3f41989858.jar" />
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_954cd67e18abacaf588deac12205b136cef6d9db.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_c1ffcae7dadd1715fc526ac3634b68fecffe0304.jar" />
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_06ad90457e9511b5dc4d2cbcd484d3bc353c137c.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_cd38065f7d0f3cf1b3ea21c653bde7809a5a5565.jar" />
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_0c688ca6d3b2de48f3c758c34bd8ea2b501d5995.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_5a413c8762b2e0ef3912f61154a0ffc26923b339.jar" />
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_2a9cf73cd437243baebe4d980f5fdb19155fe4da.jar" />
     </item>
     <item
-        jar="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_470b7e549dc7d6776d8e1716c33b6472dc5925ba.jar" />
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_47e1c13240d69d3b0cdd55d14098146b4b5e2df4.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b131d5cf105395705a396dc093da611e1ef444c9">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_dfb255f35245f5c26c502a28236c28cbd440521f.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_f5aa5accaf18f8a5b4f09f3d54d46261fa025fea.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_3ded4d8db68a0501cc3286422257a61528208044.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e0976d05812d2cee04397574eb3db482f4ec339">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_f4c14074ae0f155c2f64dfbf054c8e327390047b.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\trima\progetti\drone_v3\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_e86eb06fd0c7727630a9f67465e963d851cbe4ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_5a0f9352b3e1a53068b3a334201c110e9a514268.jar" />
+    </item>
+    <item
+        jar="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\trima\progetti\drone_v2-marco\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_8614e7fd9a49818837a6f3975f2b5e6c0e36a90b.jar" />
     </item>
 
 </items>

@@ -19,6 +19,15 @@
         },
         "cordova-plugin-geolocation": {
             "PACKAGE_NAME": "com.dronev_1.it"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.dronev_1.it"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.dronev_1.it"
+        },
+        "com.lampa.startapp": {
+            "PACKAGE_NAME": "com.dronev_1.it"
         }
     },
     "dependent_plugins": {

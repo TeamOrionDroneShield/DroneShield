@@ -21,8 +21,17 @@
     <feature name="Geolocation">
         <param name="android-package" value="org.apache.cordova.geolocation.Geolocation" />
     </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
+    <feature name="Notification">
+        <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
+    </feature>
+    <feature name="startApp">
+        <param name="android-package" value="com.lampa.startapp.startApp" />
+    </feature>
     <allow-intent href="market:*" />
-    <name>Drone_v1</name>
+    <name>Drone Shield</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -30,6 +39,7 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
+    <icon src="www/img/logo.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

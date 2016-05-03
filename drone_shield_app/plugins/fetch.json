@@ -41,5 +41,29 @@
         },
         "is_top_level": false,
         "variables": {}
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-network-information"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-dialogs"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.lampa.startapp": {
+        "source": {
+            "type": "registry",
+            "id": "com.lampa.startapp"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

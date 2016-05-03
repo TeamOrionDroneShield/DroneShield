@@ -4134,7 +4134,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
   flex: 1;
   display: block;
   overflow: hidden;
-  max-width: 150px;
+  max-width: 1000px;
   height: 100%;
   color: inherit;
   text-align: center;

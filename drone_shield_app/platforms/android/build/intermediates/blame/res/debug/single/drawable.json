@@ -1,66 +1,130 @@
 [
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2/C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/marcoiannella/Desktop/drone_v2-marco/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable/common_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\trima\\progetti\\drone_v3\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2-marco\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\marcoiannella\\Desktop\\drone_v2\\C:\\Users\\trima\\progetti\\drone_v1\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     }
 ]
